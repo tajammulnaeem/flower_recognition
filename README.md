@@ -6,22 +6,22 @@ The model classify the image of the input flower in one of the 5 categories (dai
     Run the model.py and a my_model will be created having trained model. Then run the run.py and enjoy.
 
 ## Programming Approach:
-    •	CNN Network
-    •	ReLU threshold function in input layer
-    •	Softmax threshold function in output layer
-    •	Adam optimizer
-    •	4 Convolutional and 4 Pooling Layers 
-    •	512 hidden neurons and 5 output neurons
+    • CNN Network
+    • ReLU threshold function in input layer
+    • Softmax threshold function in output layer
+    • Adam optimizer
+    • 4 Convolutional and 4 Pooling Layers 
+    • 512 hidden neurons and 5 output neurons
 
 
 ## Programming Tools
     The following programming tools are used in this project:
-    •	Python
-    •	Tensorflow
-    •	Keras
-    •	Numpy
-    •	Matplotlib
-    •	PyQt5 for GUI
+    • Python
+    • Tensorflow
+    • Keras
+    • Numpy
+    • Matplotlib
+    • PyQt5 for GUI
     
 ## Model Design:
     The CNN model id designed in following steps:
