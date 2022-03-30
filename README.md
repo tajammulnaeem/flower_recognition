@@ -2,6 +2,9 @@
 
 The model classify the image of the input flower in one of the 5 categories (daisy, rose, sunflower, tulip and dandelion). Especially, this system is helpful for recognizing pictures that have fastened form and structure of flowers. Then we have a tendency to create use neural network that processes the individual pixels of a picture and then training of model and prediction.
 
+## How to run?
+    Run the model.py and a my_model will be created having trained model. Then run the run.py and enjoy.
+
 ## Programming Approach:
     •	CNN Network
     •	ReLU threshold function in input layer
